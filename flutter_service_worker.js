@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "fec333474b721fd2655cd0b806e37a11",
-"assets/AssetManifest.bin.json": "13fa5097301df02ff530d23517fd0e62",
-"assets/assets/images/shuvam%2520(2).jpeg": "1d37af9f2dc462b5c62408bf4eed241e",
+const RESOURCES = {"assets/AssetManifest.bin": "49785d3a2f7cff64ca5380bcfee4a1de",
+"assets/AssetManifest.bin.json": "51ee3fc82b4c506a70df7af57d525705",
+"assets/assets/images/shuvam_kawri.jpeg": "1d37af9f2dc462b5c62408bf4eed241e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "d63f41a46188621886d41c7f8e9c0983",
 "assets/NOTICES": "cee37596380b09b7470129351f3388bb",
@@ -26,14 +26,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "fec333474b721fd2655cd0b806e37a11
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "01f0f46dcc5bb5817984c30c4ea26b09",
+"flutter_bootstrap.js": "01324f4ac5f4f8f3b5c6aed797f7adc0",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "02e75666fca3e28f2350dc3dff428bdc",
-"/": "02e75666fca3e28f2350dc3dff428bdc",
-"main.dart.js": "f6ade2fa7d69831350e780e3fb5ac9d9",
+"index.html": "38c4683cca6fa2f67c91c692da8c4f7d",
+"/": "38c4683cca6fa2f67c91c692da8c4f7d",
+"main.dart.js": "9baa47957ea606c15d79fd5720166442",
 "manifest.json": "d8fe34f7ae4c072a77b924e01dac8a50",
 "s_k.png": "7e38cdc2d8877ca20595e0604d1f32d1",
 "version.json": "9b818ca9511483c901bed1545384376c"};
